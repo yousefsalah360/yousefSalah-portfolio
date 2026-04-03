@@ -32,7 +32,7 @@ export const Projects = () => {
 
             <div className="flex justify-between items-center">
               <a
-                href="#"
+                href="https://yousefsalah360.github.io/dashboard-project"
                 className="text-blue-400 hover:blue-300 transition-colors"
               >
                 View Project ➨
