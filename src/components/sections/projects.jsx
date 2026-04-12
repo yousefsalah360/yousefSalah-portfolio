@@ -19,7 +19,7 @@ export const Projects = () => {
                 management.
               </p>
               <div className="flex flex-wrap gap-2">
-                {["React", "Tailwind CSS", "React Router"].map((tech, key) => (
+                {["React", "Tailwind CSS", "React Router" , "LocalStorage"].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 hover:shadow-[0_2px_8px_rgba(59,130,2246,0.2)] transition text-center mb-5"
@@ -45,7 +45,7 @@ export const Projects = () => {
                 checkout.
               </p>
               <div className="flex flex-wrap gap-2">
-                {["React", "Tailwind CSS", "React Router", "Axios"].map(
+                {["React", "Tailwind CSS", "React Router", "React Toastify"].map(
                   (tech, key) => (
                     <span
                       key={key}
@@ -74,7 +74,7 @@ export const Projects = () => {
                 A responsive restaurant website with menu, cart, and checkout.
               </p>
               <div className="flex flex-wrap gap-2">
-                {["React", "Tailwind CSS", "React Router"].map((tech, key) => (
+                {["HTML", "CSS", "Basic JavaScript"].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 hover:shadow-[0_2px_8px_rgba(59,130,2246,0.2)] transition text-center mb-5"
@@ -86,7 +86,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="https://yousefsalah360.github.io/Restaurant-site"
                   className="text-blue-400 hover:blue-300 transition-colors"
                 >
                   View Project ➨
