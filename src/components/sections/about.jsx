@@ -14,6 +14,12 @@ export const About = () => {
     "React TS",
     "Git",
     "Github",
+    "Redux",
+    "Redux Toolkit",
+    "Context Api",
+    "Vite",
+    "npm"
+    
   ];
 
   return (
